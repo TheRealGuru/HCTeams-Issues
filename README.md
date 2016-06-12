@@ -1,2 +1,2 @@
 # HCTeams-Issues
-This is the public issue-tracker for HCTeams and HCSquads issues.
+This is the public issue-tracker for HCTeams, HCSquads, and Kit Map issues.
